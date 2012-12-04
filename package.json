@@ -1,0 +1,13 @@
+{
+  "name": "zepto.splitDate",
+  "description": "Split Data Zepto plugin",
+  "version": "0.1.0",
+  "dependencies": {
+    "zepto": "*"
+  },
+  "main": "zepto.splitDate.js",
+  "jam": {
+    "main": "zepto.splitDate.js",
+    "include": ["zepto.splitDate.js"]
+  }
+}
